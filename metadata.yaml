@@ -1,0 +1,29 @@
+_repo: A-Compilation-of-the-Messages-and-Papers-of-the-Presidents--13-Volume-7-part-1--Ulysses-S.-Gr__13012
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Richardson, James D. (James Daniel)
+    alias: Richardson, James Daniel
+    birthdate: 1843
+    deathdate: 1914
+    gutenberg_agent_id: '3697'
+    url: http://www.gutenberg.org/2009/agents/3697
+description: ''
+gutenberg_issued: '2004-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13012'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'J'
+- !lcsh 'Presidents -- United States'
+- !lcsh 'United States -- History -- Sources'
+- !lcsh 'United States -- Politics and government'
+- !lcsh 'Grant, Ulysses S. (Ulysses Simpson), 1822-1885'
+- GITenberg
+title: "A Compilation of the Messages and Papers of the Presidents\r\nVolume 7, part\
+  \ 1: Ulysses S. Grant"
+url: http://www.gutenberg.org/ebooks/13012
